@@ -1,0 +1,287 @@
+.firstSection {
+	/*height: 600px;*/
+	background: url(images/superiorBack.png);
+	/*background-size: 1500px 1000px;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: -20px;
+	background-attachment: fixed;*/
+	background-repeat: no-repeat;
+	background-size: 100% 75%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 700px;
+	/*background-color: #6f7272;*/
+}
+
+.makeItRed {
+	margin-top: 50px;
+	background-color: red;
+	color: blue;
+	height: 100px;
+	font-family: 'Barrio', cursive;
+	font-size: 90px;
+}
+
+@media(max-width: 2000px) {
+	.logoImage {
+		margin-left: 100px;
+	}
+}
+
+@media(max-width: 500px) {
+	.logoImage {
+		margin-left: 1px;
+	}
+}
+
+/*.makeBlack {
+	background-color: black;
+}*/
+
+.makeBlue {
+	background-color: blue;
+	height: 330px;
+}
+
+.valueAdded {
+	font-family: 'Barrio', cursive;
+	font-size: 60px;
+	color: red;
+	padding-left: 10px;
+}
+
+.nameForm {
+	background-color: yellow;
+}
+
+.makeAccount {
+	font-family: 'Barrio', cursive;
+	font-size: 40px;
+	color: red;
+}
+
+.control-label{
+	font-family: 'Barrio', cursive;
+	font-size: 20px;
+	color: red;
+}
+
+#inputPassword3, #inputEmail3 {
+	margin-left: 20px;
+}
+
+.fa-bolt {
+	color: yellow;
+}
+
+.behindBolt {
+	background-color: blue;
+	height: 330px;
+	background: url(images/superMan.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
+
+.nameForm {
+	height: 330px;
+}
+
+.btn-default {
+	color: black;
+	background-color: red;
+	font-family: 'Barrio', cursive;
+	font-size: 20px;
+}
+
+.checkbox {
+	font-family: 'Barrio', cursive;
+	font-size: 15px;
+}
+
+.form-group {
+	padding-right: 10px;
+}
+
+.flavorDesc {
+	margin-top: 90px;
+/*	font-family: 'Barrio', cursive;
+*/	
+	font-family: 'Economica', sans-serif;
+	font-size: 60px;
+	color: red;
+	line-height: 50px;
+}
+
+.flavorImg {
+	height: 400px;
+	background: url(images/superMan.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-color: white;
+}
+
+.flavorImg2 {
+	margin-top: 20px;
+	height: 400px;
+	background: url(images/blackWidow.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.gaveABorder {
+	border-width: 3px;
+	border-style: solid;
+	border-color: black;
+}
+.gameTitle {
+	margin-top: 100px;
+	font-family: 'Bahiana', cursive;
+	font-size: 90px;
+	color: red;
+}
+.gameImg1 {
+	background: url(images/superMan.png);
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.gameImg2 {
+	background: url(images/Green_Lantern_1.png);
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+.gameImg3 {
+	background: url(images/blackWidow.jpg);
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.avgLogo {
+	background: url(images/avengersLogo.jpeg);
+	background-repeat: no-repeat;
+	background-size: contain;
+	height: 400px;
+	background-position: center;
+}
+
+.topPlayer {
+	font-family: 'Orbitron', sans-serif;
+	color: blue;
+	font-size: 45px;
+}
+.players {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 30px;
+}
+.bitOfMargin {
+	margin-top: 100px;
+}
+
+.newButton {
+	font-family: 'Orbitron', sans-serif;
+	background-color: red;
+	font-size: 30px;	
+}
+.eventImg {
+	background: url();
+}
+.valueAdded2 {
+	font-family: 'Orbitron', sans-serif;
+	color: blue;
+	font-size: 45px;
+	margin-left: 35px;
+}
+.eventImg1 {
+	height: 500px;
+	background: url(images/comicCon.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 80%;
+	background-attachment: fixed;
+}
+/*.eventImg2 {
+	height: 400px;
+	background: url(images/comicCon.jpg);
+	background-repeat: no-repeat;
+	background-size: 1500px 900px;
+	background-attachment: fixed;
+}*/
+.getTickets {
+	margin-top: 100px;
+	background-color: red;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 50px;
+}
+
+.aboutUsHeader {
+	background: url(images/superiorBack.png);	
+	background-repeat: no-repeat;
+	background-size: 100% 80%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 900px;
+	background-color: #6f7272;
+	/*margin-top: -155%;*/
+}
+.zap {
+	background-color: #6f7272;
+	margin-top: -450px;
+	margin-bottom: 10px;
+	text-align: center;
+	/*font-family: 'Orbitron', sans-serif;*/
+	font-family: 'Bahiana', cursive;
+	color: yellow;
+	font-size: 1300%;
+	height: 300px;
+}
+.zap2 {
+	/*background-color: #6f7272;*/
+	text-shadow: 2px 2px black;
+	margin-top: -300px;
+	margin-bottom: 10px;
+	text-align: center;
+	/*font-family: 'Orbitron', sans-serif;*/
+	font-family: 'Bahiana', cursive;
+	color: yellow;
+	font-size: 1300%;
+	height: 300px;
+}
+.aboutUs {
+	/*margin-top: 85px;*/
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 45px;
+	color: blue;
+}
+/*.aboutUs1 {
+	margin-top: 95px;
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	font-size: 45px;
+	color: blue;
+}*/
+.aboutUsBack {
+	background-color: #6f7272;
+	margin-top: -150px;
+}
+.aboutList {
+	background-color: white;
+	text-align: center;
+	/*font-family: 'Orbitron', sans-serif;*/
+	font-size: 45px;
+	list-style: none;
+}
+.aboutUs1 {
+	margin-top: -100px;
+}
+footer {
+	background-color: red;
+}
+
+.fa-3x {
+	color: blue;
+}
